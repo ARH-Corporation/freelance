@@ -1,7 +1,7 @@
 {
   "win32-ia32-prod": {
-    "update": "https://github.com//arh-corporation/freelance/releases/download/win32-ia32-prod-v1.8.9",
-    "install": "https://github.com//arh-corporation/freelance/releases/download/win32-ia32-prod-v1.8.9/ARH-Freelance.Setup.1.8.9.exe",
-    "version": "1.8.9"
+    "update": "https://github.com/ARH-Corporation/freelance/releases/download/win32-ia32-prod-v1.9.1",
+    "install": "https://github.com/2captcha/ARH-Corporation/freelance/download/win32-ia32-prod-v1.9.1/ARH-Freelance.1.9.1.exe",
+    "version": "1.9.1"
   }
 }
